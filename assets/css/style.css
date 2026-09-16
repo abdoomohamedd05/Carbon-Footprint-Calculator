@@ -1,0 +1,191 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+
+    background:linear-gradient(135deg,#0F172A,#1E293B);
+
+    min-height:100vh;
+
+}
+
+.login-box{
+
+    background:white;
+
+    border-radius:25px;
+
+    padding:45px;
+
+    box-shadow:0 25px 50px rgba(0,0,0,.25);
+
+}
+
+.login-box .logo{
+
+    width:90px;
+
+    height:90px;
+
+    border-radius:50%;
+
+    background:linear-gradient(135deg,#10B981,#059669);
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    color:white;
+
+    font-size:38px;
+
+    margin:auto;
+
+}
+
+h2{
+
+    font-weight:700;
+
+    color:#0F172A;
+
+}
+
+.subtitle{
+
+    color:#64748B;
+
+    font-size:14px;
+
+}
+
+.form-control{
+
+    height:55px;
+
+    border-radius:12px;
+
+    border:1px solid #CBD5E1;
+
+}
+
+.form-control:focus{
+
+    box-shadow:none;
+
+    border-color:#10B981;
+
+}
+
+.btn-login{
+
+    background:#10B981;
+
+    color:white;
+
+    height:55px;
+
+    border-radius:12px;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.btn-login:hover{
+
+    background:#059669;
+
+    color:white;
+
+    transform:translateY(-2px);
+
+}
+
+.left-side{
+
+    color:white;
+
+}
+
+.left-side h1{
+
+    font-size:50px;
+
+    font-weight:700;
+
+}
+
+.left-side p{
+
+    opacity:.85;
+
+    font-size:18px;
+
+}
+
+.feature{
+
+    margin-top:20px;
+
+    font-size:17px;
+
+}
+
+.feature i{
+
+    color:#10B981;
+
+    margin-right:10px;
+
+}
+
+.input-group-text{
+
+    background:white;
+
+    border-right:none;
+
+}
+
+.input-group .form-control{
+
+    border-left:none;
+
+}
+
+.input-group .form-control:focus{
+
+    box-shadow:none;
+
+}
+
+a{
+
+    text-decoration:none;
+
+}
+
+a:hover{
+
+    color:#10B981;
+
+}
+
+.btn-login{
+
+    transition:.3s;
+
+}
+
+.btn-login:hover{
+
+    transform:translateY(-2px);
+}
