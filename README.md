@@ -63,3 +63,22 @@ Screenshots of the system dashboard and main modules can be added here.
 ## 📄 Project Status
 
 Completed academic/prototype project.
+## Project Screenshots
+
+### Dashboard
+![Dashboard](Screenshot%202026-09-16%20115143.png)
+
+### AI Sustainability Advisor
+![AI Sustainability Advisor](Screenshot%202026-07-21%20094342.png)
+
+### ESG Analysis
+![ESG Analysis](Screenshot%202026-07-21%20084850.png)
+
+### Carbon Calculator
+![Carbon Calculator](Screenshot%202026-07-21%20084730.png)
+
+### Add Company
+![Add Company](Screenshot%202026-07-21%20084530.png)
+
+### Report
+![Report](Screenshot%202026-07-21%20084942.png)
